@@ -1,0 +1,6 @@
+Flask
+pytesseract
+tesserocr
+pillow
+gunicorn
+Jinja2
