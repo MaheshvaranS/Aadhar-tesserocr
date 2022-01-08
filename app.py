@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request, redirect, url_for
 import tesserocr
-import pytesseract
+#import pytesseract
 from PIL import Image
 import re
 
